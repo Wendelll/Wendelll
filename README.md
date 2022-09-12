@@ -1,8 +1,8 @@
-### Oi!!! Eu sou o Wendelll 👋
+### Hey!!! I am Wendel 👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Design
-- 😄 Pronouns: ele/dele
+- 🔭 Today I work with Front-End
+- 🌱 Studying Design
+- 😄 Pronouns: he/it
 
 <div align="center">
   <a href="https://github.com/Wendelll">

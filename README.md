@@ -1,4 +1,4 @@
-### Hey!!! I am Wendel 👋
+### Hey!!! I am Wendell 👋
 
 - 🔭 Today I work with Front-End
 - 🌱 Studying Design
